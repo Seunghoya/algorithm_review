@@ -2,4 +2,5 @@
 
 ### Level 1
 ✅ [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) <br>
-✅ [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)
+✅ [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)<br>
+✅ [최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491)<br>
