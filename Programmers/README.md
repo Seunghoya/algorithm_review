@@ -7,6 +7,7 @@
 ✅ [최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491)<br>
 ✅ [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)<br>
 ✅ [k번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748)<br>
+❌ [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)<br>
 
 <br>
 
