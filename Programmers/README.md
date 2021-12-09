@@ -15,7 +15,7 @@
 ✅ [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)<br>
 ✅ [위장](https://programmers.co.kr/learn/courses/30/lessons/42578)<br>
 ✅ [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)<br>
-❌ [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)<br>
+✅ [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)<br>
 
 <br>
 
