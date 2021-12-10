@@ -8,6 +8,7 @@
 ✅ [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)<br>
 ✅ [k번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748)<br>
 ✅ [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)<br>
+✅ [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) (2019 카카오 기출)<br>
 
 <br>
 
@@ -16,6 +17,7 @@
 ✅ [위장](https://programmers.co.kr/learn/courses/30/lessons/42578)<br>
 ✅ [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)<br>
 ✅ [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)<br>
+❌ [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)<br>
 
 <br>
 
