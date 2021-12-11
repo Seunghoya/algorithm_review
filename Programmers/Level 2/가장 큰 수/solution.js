@@ -18,6 +18,7 @@ const getPermutation = (arr, num) => {
     return result;
 };
 // 내가 작성한 코드에선 테스트케이스는 통과하지만, 제출했을 땐 런타임 오류가 뜬다.
+// 아직 해결 못했는데.. 순열을 사용하면 어떻게든 런타임 에러가 발생할것으로 예상됨..
 
 // ???? 이게 이렇게 되네
 function solution(numbers) {
