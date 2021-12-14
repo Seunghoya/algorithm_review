@@ -11,6 +11,7 @@
 ✅ [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) (2019 카카오 기출)<br>
 ✅ [나머지가 1이 되는 수](https://programmers.co.kr/learn/courses/30/lessons/87389)<br>
 ✅ [약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884)<br>
+✅ [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/77884)<br>
 
 <br>
 
