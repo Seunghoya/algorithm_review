@@ -13,6 +13,7 @@
 ✅ [약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884)<br>
 ✅ [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/77884)<br>
 ✅ [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)<br>
+✅ [내적](https://programmers.co.kr/learn/courses/30/lessons/70128)<br>
 
 <br>
 
