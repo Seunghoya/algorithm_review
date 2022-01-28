@@ -1,5 +1,45 @@
 function solution(n, lost, reserve) {
     var answer = 0;
+    // 빈 객체 'students'에 전체 학생 수만큼 키를 입력해주고
+    // 조건문으로 lost에 해당하는 키값은 -1 reserve에 해당하는 키값은 +1
+    // for문으로 n만큼 반복했을 때
+    // 조건문으로 students의 n의 value가 2면서 n + 1이 0인 경우,
+    // 조건문으로 students의 n의 value가 2면서 n - 1이 0인 경우 
+    // students의 n은 -1 , n+1 or n-1 은 +1
+    // students의 n이 1을 갖고 있는 케이스의 숫자를 리턴
+    
+    let students = {};
+    
+    for (let i = 1; i <= n; i++) {
+        students[i] = 1
+    }
+    
+    lost.forEach(el => students[el] -= 1)
+    reserve.forEach(el => students[el] += 1)
+    
+    for (let i = 1; i <= n; i++) {
+        if (students[i] === 2 && students[i + 1] === 0) {
+            students[i] -= 1
+            students[i + 1] += 1
+        }
+        if (students[i] === 2 && students[i - 1] === 0) {
+            students[i] -= 1
+            students[i - 1] += 1
+        }
+    }
+    
+    for (let key in students) {
+        if (students[key] >= 1) {
+            answer++
+        }
+    }
+    
+    return answer;
+}
+
+// 다른 풀이
+function solution(n, lost, reserve) {
+    var answer = 0;
     let setArr =[]
     for (let i = 1 ; i <= n ; i++) {
         setArr.push(1) //우선 체육복을 1개 준다.
