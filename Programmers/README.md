@@ -24,6 +24,7 @@
 ✅ [위장](https://programmers.co.kr/learn/courses/30/lessons/42578)<br>
 ✅ [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)<br>
 ✅ [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)<br>
+✅ [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)<br>
 ❌ [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)<br>
 ❌ [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)<br>
 
