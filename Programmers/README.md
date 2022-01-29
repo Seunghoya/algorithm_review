@@ -15,6 +15,7 @@
 ✅ [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)<br>
 ✅ [내적](https://programmers.co.kr/learn/courses/30/lessons/70128)<br>
 ✅ [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947)<br>
+✅ [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)<br>
 
 <br>
 
