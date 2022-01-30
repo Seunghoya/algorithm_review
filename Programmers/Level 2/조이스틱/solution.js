@@ -20,11 +20,11 @@ function solution(name) {
   // JAN이면 첫 글자에서 오른쪽으로 2번 가는것보다 왼쪽으로 한 번 이동하는 것이 최소 커맨드 입력
   // 아직 해결 못함...
   let cursorCommend = name.length - 1;
-  for (let key of name) {
-      if (name[key] === 'A') {
-          
+  for (let i = 0; i < name.length; i++) {
+      if (name[i] === 'A') {
+          // 'A' 일때 left랑 right 구분하는 로직이 필요한듯?
       }
   }
 
-  return cursorCommend + alphabetSum;
+  return cursorCommend + alphabetCommend;
 }
