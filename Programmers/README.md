@@ -19,6 +19,7 @@
 ✅ [내적](https://programmers.co.kr/learn/courses/30/lessons/70128)<br>
 ✅ [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947)<br>
 ✅ [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)<br>
+✅ [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)<br>
 ❌ [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)<br>
 
 <br>
