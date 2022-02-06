@@ -21,6 +21,7 @@
 ✅ [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)<br>
 ✅ [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)<br>
 ✅ [부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612)<br>
+✅ [최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940)<br>
 ❌ [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)<br>
 
 <br>
