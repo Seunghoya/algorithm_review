@@ -3,6 +3,7 @@
 
 ### Level 1
 ✅ [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) <br>
+✅ [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944) <br>
 ✅ [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937) <br>
 ✅ [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501) <br>
 ✅ [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948) <br>
@@ -24,6 +25,8 @@
 ✅ [최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940)<br>
 ✅ [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)<br>
 ✅ [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)<br>
+✅ [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943)<br>
+✅ [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919)<br>
 ❌ [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)<br>
 
 <br>
@@ -36,8 +39,8 @@
 ✅ [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)<br>
 ✅ [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)<br>
 ✅ [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)<br>
+✅ [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)<br>
 ❌ [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)<br>
-❌ [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)<br>
 
 <br>
 
