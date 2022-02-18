@@ -27,7 +27,9 @@
 ✅ [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)<br>
 ✅ [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943)<br>
 ✅ [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919)<br>
+✅ [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916)<br>
 ❌ [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)<br>
+❌ [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)<br>
 
 <br>
 
