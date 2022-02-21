@@ -29,8 +29,8 @@
 ✅ [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919)<br>
 ✅ [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916)<br>
 ✅ [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)<br>
+✅ [예산](https://programmers.co.kr/learn/courses/30/lessons/12982)<br>
 ❌ [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)<br>
-❌ [예산](https://programmers.co.kr/learn/courses/30/lessons/12982)<br>
 
 <br>
 
