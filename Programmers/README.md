@@ -45,6 +45,7 @@
 ✅ [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)<br>
 ✅ [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)<br>
 ✅ [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)<br>
+✅ [뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)<br>
 ❌ [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)<br>
 
 <br>
