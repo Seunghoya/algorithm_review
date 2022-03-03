@@ -32,6 +32,7 @@
 ✅ [예산](https://programmers.co.kr/learn/courses/30/lessons/12982)<br>
 ✅ [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)<br>
 ✅ [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)<br>
+✅ [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931)<br>
 ❌ [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)<br>
 
 <br>
