@@ -50,6 +50,7 @@
 ✅ [뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)<br>
 ✅ [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)<br>
 ✅ [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)<br>
+✅ [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951)<br>
 
 <br>
 
